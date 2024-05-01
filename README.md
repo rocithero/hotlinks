@@ -20,7 +20,7 @@ Links
 16. **https://theaigrid.com/how-actually-to-use-claude-2-1-the-no-bs-guide/**
 17. https://austinhenley.com/blog/copilotworkspace.html
 18. https://attachments.convertkitcdnn2.com/976933/49be0fb0-8d53-4469-b5fe-a0c7e00d3f29/How%20to%20Create%20a%20LinkedIn%20Profile%20For%20Dubai.pdf
-19. 
+19. Google AI IMg generator: **https://www.zdnet.com/article/googles-ai-image-generator-finally-rolls-out-to-the-public-heres-how-to-try-it/** 
 
 
 ## GitHub Repos:
